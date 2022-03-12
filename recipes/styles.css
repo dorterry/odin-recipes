@@ -1,0 +1,21 @@
+/* Universal Styles */
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: white;
+    color: #023047;
+}
+h1, h2 {
+    color: #0a6d86;
+}
+
+h3, h4 {
+    color: darkslateblue;
+}
+
+/* Description Section */
+
+.description {
+    font-style: italic;
+    font-weight: 525;
+    color:darkred;
+}
