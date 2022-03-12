@@ -3,13 +3,13 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: white;
     color: #023047;
+    max-width: 1000px;
 }
-h1, h2 {
+h1, h2, h3, h4 {
     color: #0a6d86;
 }
-
-h3, h4 {
-    color: darkslateblue;
+img {
+    width: 800px;
 }
 
 /* Description Section */
@@ -18,4 +18,12 @@ h3, h4 {
     font-style: italic;
     font-weight: 525;
     color:darkred;
+    text-align: justify;
+}
+
+/* Footer */
+
+footer {
+    text-align: center;
+    padding-top: 10px;
 }
